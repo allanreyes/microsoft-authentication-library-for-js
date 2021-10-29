@@ -1,8 +1,21 @@
 # Change Log - @azure/msal-common
 
-This log was last generated on Mon, 04 Oct 2021 23:12:35 GMT and should not be manually modified.
+This log was last generated on Fri, 29 Oct 2021 23:45:43 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 5.1.0
+
+Fri, 29 Oct 2021 23:45:43 GMT
+
+### Minor changes
+
+- Add support for ephemeral SSH certificate acquisition #4178 (hemoral@microsoft.com)
+
+### Patches
+
+- Update authority metadata error messages (thomas.norling@microsoft.com)
+- Gracefully handle B2C ROPC policies not setting end_session_endpoint property #4173 (janutter@microsoft.com)
 
 ## 5.0.1
 
